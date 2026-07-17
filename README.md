@@ -96,4 +96,3 @@ Used for processing registration requests.
 
 ---
 
-## Project Structure
